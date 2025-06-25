@@ -89,3 +89,5 @@ https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
 https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
 #EXTINF:-1,ORF-Sport
 https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:-1,RTL HD
+https://strm.hdtvizlecanli.com/live/pro7.m3u8
