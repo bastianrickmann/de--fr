@@ -8,11 +8,11 @@ https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1,ARD Tagesschau
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1,ZDF
-http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1,ZDF neo
-http://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1,ZDF info
-http://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 #EXTINF:-1,MDR Sachsen
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 #EXTINF:-1,MDR Thüringen
